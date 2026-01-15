@@ -1,5 +1,8 @@
+![Apple Logo](Apple-Store.jpg.large.jpg)
 
-# ![Apple Logo](Apple-Store.jpg.large.jpg) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+# Apple Retail Sales SQL Project  
+## Analyzing Millions of Sales Rows
+
 
 **Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
 

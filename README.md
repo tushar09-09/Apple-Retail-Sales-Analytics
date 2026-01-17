@@ -1,4 +1,4 @@
-![Apple Logo](Apple-Store.jpg.large.jpg)
+![Apple Logo](Apple-Store.jpg.large.jpg) 
 
 # Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 

@@ -383,11 +383,11 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 ## Project  Business Insights
 
--- Sales volume is strongly influenced by geographical store distribution, with countries having more stores generating higher overall sales.
--- A small number of stores contribute the majority of total units sold, indicating performance concentration among top stores.
--- Warranty claim rates vary across countries, suggesting region-specific product usage or service quality differences.
--- Certain product categories account for a higher share of warranty claims, highlighting potential quality or durability issues.
--- Sales follow clear monthly and daily patterns, which can be used to optimize inventory planning and staffing.
+- Sales volume is strongly influenced by geographical store distribution, with countries having more stores generating higher overall sales.
+- A small number of stores contribute the majority of total units sold, indicating performance concentration among top stores.
+- Warranty claim rates vary across countries, suggesting region-specific product usage or service quality differences.
+- Certain product categories account for a higher share of warranty claims, highlighting potential quality or durability issues.
+- Sales follow clear monthly and daily patterns, which can be used to optimize inventory planning and staffing.
 
 ## Conclusion
 

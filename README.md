@@ -77,12 +77,12 @@ The project is split into three tiers of questions to test SQL skills of increas
 ### Easy to Medium (10 Questions)
 
 1. Find the number of stores in each country.
-   ''' sql
+     """ sql
    select country,count( store_id)  as number_of_stores
 from stores
 Group by country
 order by  number_of_stores desc;
-'''
+"""
 3. Calculate the total number of units sold by each store.
 4. Identify how many sales occurred in December 2023.
 5. Determine how many stores have never had a warranty claim filed.

@@ -392,4 +392,3 @@ This project primarily focuses on developing and showcasing the following SQL sk
 ## Conclusion
 
 This project involved designing and analyzing a relational retail database using advanced SQL techniques.Various business-focused queries were implemented to evaluate sales performance, store efficiency, and warranty trends.The analysis converted raw transactional data into meaningful insights to support data-driven decision-making. Overall, the project demonstrates strong practical SQL skills and real-world analytical capability.
----

@@ -4,6 +4,7 @@ DROP TABLE IF EXISTS products;
 DROP TABLE IF EXISTS category;
 DROP TABLE IF EXISTS stores;
 
+
 -- STORES
 CREATE TABLE stores (
     store_id VARCHAR(5) PRIMARY KEY,

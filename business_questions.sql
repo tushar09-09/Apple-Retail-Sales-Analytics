@@ -1,5 +1,5 @@
 -- Improving Query Performance 
-
+ 
 -- Creating index on Poduct_id
 Explain analyze
 Select * from Sales

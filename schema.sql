@@ -52,3 +52,4 @@ CREATE TABLE warranty (
     CONSTRAINT fk_sales 
         FOREIGN KEY (sale_id) REFERENCES sales(sale_id)
 );
+  

@@ -1,7 +1,7 @@
 ![Apple Logo](Apple-Store.jpg.large.jpg) 
 
 # Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
-
+  
 ## Project Overview 
 
 This project focuses on analyzing a retail sales database using SQL to extract meaningful business insights.
